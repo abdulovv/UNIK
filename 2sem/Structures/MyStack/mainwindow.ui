@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>790</width>
+    <height>276</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="PUSH">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>30</y>
+      <width>88</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Push</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="TOP">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>130</y>
+      <width>88</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Top</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="POP">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>80</y>
+      <width>88</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Pop</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="ISEMPTY">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>180</y>
+      <width>88</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>IsEmpty</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Size">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>180</y>
+      <width>88</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Size</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="EXIT">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>180</y>
+      <width>88</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>EXIT</string>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>30</y>
+      <width>81</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="minimum">
+     <number>-100</number>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>20</y>
+      <width>571</width>
+      <height>71</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>790</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menustack">
+    <property name="title">
+     <string>stack</string>
+    </property>
+   </widget>
+   <addaction name="menustack"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
