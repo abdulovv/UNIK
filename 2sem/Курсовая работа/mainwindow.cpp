@@ -608,14 +608,15 @@ void MainWindow::on_startTrip_clicked(){
     ui->deleteTrip->setEnabled(false);
     ui->addTruck->setEnabled(false);
     ui->createTrip->setEnabled(false);
+    ui->checkStats->setEnabled(false);
 
     Trip* trip = trips[ind];
 
     allKg += trip->getKg();
 
-    float dist = getPathDistance(trip->getRoads());
+    float dist = getPathDistance(trip->getRoads())*2;
 
-    allKm += dist;
+    allKm += dist*trip->getTrucks().size();
 
     trip->updateTruckDistance(dist);
 
@@ -673,5 +674,6 @@ void MainWindow::on_checkStats_clicked(){
     }
 
     ui->checkStats->setText("UPDATE STATS");
+    ui->checkStats->setEnabled(false);
 }
 
