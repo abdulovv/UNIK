@@ -1,0 +1,15 @@
+D:\C#\SerializerLib\bin\Debug\net8.0\SerializerLib.deps.json
+D:\C#\SerializerLib\bin\Debug\net8.0\SerializerLib.dll
+D:\C#\SerializerLib\bin\Debug\net8.0\SerializerLib.pdb
+D:\C#\SerializerLib\bin\Debug\net8.0\353503_ABDULOV_LAB5.Domain.dll
+D:\C#\SerializerLib\bin\Debug\net8.0\353503_ABDULOV_LAB5.Domain.pdb
+D:\C#\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.AssemblyReference.cache
+D:\C#\SerializerLib\obj\Debug\net8.0\SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfoInputs.cache
+D:\C#\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfo.cs
+D:\C#\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.CoreCompileInputs.cache
+D:\C#\SerializerLib\obj\Debug\net8.0\Serializ.8EEFA712.Up2Date
+D:\C#\SerializerLib\obj\Debug\net8.0\SerializerLib.dll
+D:\C#\SerializerLib\obj\Debug\net8.0\refint\SerializerLib.dll
+D:\C#\SerializerLib\obj\Debug\net8.0\SerializerLib.pdb
+D:\C#\SerializerLib\obj\Debug\net8.0\ref\SerializerLib.dll

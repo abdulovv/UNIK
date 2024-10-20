@@ -1,0 +1,12 @@
+FEATURE Maple2021 maplelmg 2100.0101 permanent uncounted \
+	HOSTID=INTERNET=*.*.*.* ISSUER=Maplesoft ISSUED=01-April-2011 NOTICE="" \
+	SN=H5F5C2TSZCI6XIBD TS_OK SIGN=""
+FEATURE Maple2021Excel maplelmg 2100.0101 permanent uncounted \
+	HOSTID=INTERNET=*.*.*.* ISSUER=Maplesoft ISSUED=01-April-2011 NOTICE="" \
+	SN=H5F5C2TSZCI6XIBD TS_OK SIGN=""
+FEATURE MaplePlayer2021 maplelmg 2100.0101 permanent uncounted \
+	HOSTID=INTERNET=*.*.*.* ISSUER=Maplesoft ISSUED=01-April-2011 NOTICE="" \
+	SN=H5F5C2TSZCI6XIBD TS_OK SIGN=""
+FEATURE MapleReader2021 maplelmg 2100.0101 permanent uncounted \
+	HOSTID=INTERNET=*.*.*.* ISSUER=Maplesoft ISSUED=01-April-2011 NOTICE="" \
+	SN=H5F5C2TSZCI6XIBD TS_OK SIGN=""

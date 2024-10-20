@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\lab1_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\entities\\atc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\entities\\atc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\collections\\mycustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\collections\\mycustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\entities\\outputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\entities\\outputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\entities\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\entities\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\entities\\cities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\entities\\cities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\interfaces\\iatc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\interfaces\\iatc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\interfaces\\icustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\interfaces\\icustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|d:\\c#\\lab1_2\\353503_abdulov_lab1\\entities\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B63240A-0123-489E-A8D9-7C3BBA0B9A8D}|353503_ABDULOV_LAB1\\353503_ABDULOV_LAB1_2.csproj|solutionrelative:353503_abdulov_lab1\\entities\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\ClassDiagram.cd",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\ClassDiagram.cd",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-25T06:48:26.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OutputWriter.cs",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\OutputWriter.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\Entities\\OutputWriter.cs",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\OutputWriter.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\Entities\\OutputWriter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:58:34.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomCollection.cs",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Interfaces\\ICustomCollection.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\Interfaces\\ICustomCollection.cs",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Interfaces\\ICustomCollection.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\Interfaces\\ICustomCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:52:18.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cities.cs",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\Cities.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\Entities\\Cities.cs",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\Cities.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\Entities\\Cities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:50:08.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tariff.cs",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\Tariff.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\Entities\\Tariff.cs",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\Tariff.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\Entities\\Tariff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:49:32.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ATC.cs",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\ATC.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\Entities\\ATC.cs",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\ATC.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\Entities\\ATC.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAMwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:42:37.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyCustomCollection.cs",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Collections\\MyCustomCollection.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\Collections\\MyCustomCollection.cs",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Collections\\MyCustomCollection.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\Collections\\MyCustomCollection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:42:21.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Call.cs",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\Call.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\Entities\\Call.cs",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\Call.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\Entities\\Call.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:42:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\Entities\\Client.cs",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\Client.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\Entities\\Client.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:42:19.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IATC.cs",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Interfaces\\IATC.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\Interfaces\\IATC.cs",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Interfaces\\IATC.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\Interfaces\\IATC.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:42:19.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Program.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\Program.cs",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Program.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:41:45.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Journal.cs",
+              "DocumentMoniker": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\Journal.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB1\\Entities\\Journal.cs",
+              "ToolTip": "D:\\C#\\lab1_2\\353503_ABDULOV_LAB1\\Entities\\Journal.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB1\\Entities\\Journal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:06:46.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

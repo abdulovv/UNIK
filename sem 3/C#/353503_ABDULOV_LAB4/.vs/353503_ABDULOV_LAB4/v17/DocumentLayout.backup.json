@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\353503_ABDULOV_LAB4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|d:\\c#\\353503_abdulov_lab4\\353503_abdulov_lab4\\classes\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|solutionrelative:353503_abdulov_lab4\\classes\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|d:\\c#\\353503_abdulov_lab4\\353503_abdulov_lab4\\file\\file.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|solutionrelative:353503_abdulov_lab4\\file\\file.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|d:\\c#\\353503_abdulov_lab4\\353503_abdulov_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|solutionrelative:353503_abdulov_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|d:\\c#\\353503_abdulov_lab4\\353503_abdulov_lab4\\classes\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|solutionrelative:353503_abdulov_lab4\\classes\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|d:\\c#\\353503_abdulov_lab4\\353503_abdulov_lab4\\classes\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|solutionrelative:353503_abdulov_lab4\\classes\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|d:\\c#\\353503_abdulov_lab4\\353503_abdulov_lab4\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|solutionrelative:353503_abdulov_lab4\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|d:\\c#\\353503_abdulov_lab4\\353503_abdulov_lab4\\353503_abdulov_lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8009B363-B718-48B3-9B35-19ABBE7072A3}|353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj|solutionrelative:353503_abdulov_lab4\\353503_abdulov_lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File.bin",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\File\\File.bin",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB4\\File\\File.bin",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\File\\File.bin",
+              "RelativeToolTip": "353503_ABDULOV_LAB4\\File\\File.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-16T07:07:14.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comparer.cs",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\Classes\\Comparer.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB4\\Classes\\Comparer.cs",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\Classes\\Comparer.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB4\\Classes\\Comparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:05:52.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\Classes\\FileService.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB4\\Classes\\FileService.cs",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\Classes\\FileService.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB4\\Classes\\FileService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAhwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:59:45.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB4\\Interfaces\\IFileService.cs",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB4\\Interfaces\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:57:17.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "353503_ABDULOV_LAB4.csproj",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj",
+              "RelativeToolTip": "353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T07:56:54.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\Classes\\Tenant.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB4\\Classes\\Tenant.cs",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\Classes\\Tenant.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB4\\Classes\\Tenant.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:53:42.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\Program.cs",
+              "RelativeDocumentMoniker": "353503_ABDULOV_LAB4\\Program.cs",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB4\\353503_ABDULOV_LAB4\\Program.cs",
+              "RelativeToolTip": "353503_ABDULOV_LAB4\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:44:50.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

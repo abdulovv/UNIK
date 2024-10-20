@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBuilding xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Building>
+    <name>Дом1</name>
+    <floors>12</floors>
+    <heating>
+      <temperature>28</temperature>
+      <energyConsumption>110</energyConsumption>
+    </heating>
+  </Building>
+  <Building>
+    <name>Дом2</name>
+    <floors>15</floors>
+    <heating>
+      <temperature>32</temperature>
+      <energyConsumption>120</energyConsumption>
+    </heating>
+  </Building>
+  <Building>
+    <name>Дом3</name>
+    <floors>18</floors>
+    <heating>
+      <temperature>30</temperature>
+      <energyConsumption>100</energyConsumption>
+    </heating>
+  </Building>
+  <Building>
+    <name>Дом4</name>
+    <floors>20</floors>
+    <heating>
+      <temperature>25</temperature>
+      <energyConsumption>120</energyConsumption>
+    </heating>
+  </Building>
+  <Building>
+    <name>Дом5</name>
+    <floors>9</floors>
+    <heating>
+      <temperature>27</temperature>
+      <energyConsumption>80</energyConsumption>
+    </heating>
+  </Building>
+</ArrayOfBuilding>

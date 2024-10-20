@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Sasha",
+    "age": 18,
+    "isKind": true
+  },
+  {
+    "Name": "Milana",
+    "age": 19,
+    "isKind": true
+  },
+  {
+    "Name": "Zahar",
+    "age": 24,
+    "isKind": true
+  },
+  {
+    "Name": "Pelix",
+    "age": 11,
+    "isKind": false
+  }
+]

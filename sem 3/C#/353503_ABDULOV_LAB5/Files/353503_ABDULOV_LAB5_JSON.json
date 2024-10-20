@@ -1,0 +1,42 @@
+[
+  {
+    "name": "\u0414\u043E\u043C1",
+    "floors": 12,
+    "heating": {
+      "temperature": 28,
+      "energyConsumption": 110
+    }
+  },
+  {
+    "name": "\u0414\u043E\u043C2",
+    "floors": 15,
+    "heating": {
+      "temperature": 32,
+      "energyConsumption": 120
+    }
+  },
+  {
+    "name": "\u0414\u043E\u043C3",
+    "floors": 18,
+    "heating": {
+      "temperature": 30,
+      "energyConsumption": 100
+    }
+  },
+  {
+    "name": "\u0414\u043E\u043C4",
+    "floors": 20,
+    "heating": {
+      "temperature": 25,
+      "energyConsumption": 120
+    }
+  },
+  {
+    "name": "\u0414\u043E\u043C5",
+    "floors": 9,
+    "heating": {
+      "temperature": 27,
+      "energyConsumption": 80
+    }
+  }
+]

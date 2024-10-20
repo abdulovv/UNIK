@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Buildings>
+  <Building>
+    <Name>Дом1</Name>
+    <Floors>12</Floors>
+    <Heating>
+      <Temperature>28</Temperature>
+      <EnergyConsumption>110</EnergyConsumption>
+    </Heating>
+  </Building>
+  <Building>
+    <Name>Дом2</Name>
+    <Floors>15</Floors>
+    <Heating>
+      <Temperature>32</Temperature>
+      <EnergyConsumption>120</EnergyConsumption>
+    </Heating>
+  </Building>
+  <Building>
+    <Name>Дом3</Name>
+    <Floors>18</Floors>
+    <Heating>
+      <Temperature>30</Temperature>
+      <EnergyConsumption>100</EnergyConsumption>
+    </Heating>
+  </Building>
+  <Building>
+    <Name>Дом4</Name>
+    <Floors>20</Floors>
+    <Heating>
+      <Temperature>25</Temperature>
+      <EnergyConsumption>120</EnergyConsumption>
+    </Heating>
+  </Building>
+  <Building>
+    <Name>Дом5</Name>
+    <Floors>9</Floors>
+    <Heating>
+      <Temperature>27</Temperature>
+      <EnergyConsumption>80</EnergyConsumption>
+    </Heating>
+  </Building>
+</Buildings>

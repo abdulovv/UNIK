@@ -1,0 +1,14 @@
+D:\C#\lab1\353503_ABDULOV_LAB1\obj\Debug\net8.0\353503_ABDULOV_LAB1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\lab1\353503_ABDULOV_LAB1\obj\Debug\net8.0\353503_ABDULOV_LAB1.AssemblyInfoInputs.cache
+D:\C#\lab1\353503_ABDULOV_LAB1\obj\Debug\net8.0\353503_ABDULOV_LAB1.AssemblyInfo.cs
+D:\C#\lab1\353503_ABDULOV_LAB1\obj\Debug\net8.0\353503_ABDULOV_LAB1.csproj.CoreCompileInputs.cache
+D:\C#\lab1\353503_ABDULOV_LAB1\bin\Debug\net8.0\353503_ABDULOV_LAB1.exe
+D:\C#\lab1\353503_ABDULOV_LAB1\bin\Debug\net8.0\353503_ABDULOV_LAB1.deps.json
+D:\C#\lab1\353503_ABDULOV_LAB1\bin\Debug\net8.0\353503_ABDULOV_LAB1.runtimeconfig.json
+D:\C#\lab1\353503_ABDULOV_LAB1\bin\Debug\net8.0\353503_ABDULOV_LAB1.dll
+D:\C#\lab1\353503_ABDULOV_LAB1\bin\Debug\net8.0\353503_ABDULOV_LAB1.pdb
+D:\C#\lab1\353503_ABDULOV_LAB1\obj\Debug\net8.0\353503_ABDULOV_LAB1.dll
+D:\C#\lab1\353503_ABDULOV_LAB1\obj\Debug\net8.0\refint\353503_ABDULOV_LAB1.dll
+D:\C#\lab1\353503_ABDULOV_LAB1\obj\Debug\net8.0\353503_ABDULOV_LAB1.pdb
+D:\C#\lab1\353503_ABDULOV_LAB1\obj\Debug\net8.0\353503_ABDULOV_LAB1.genruntimeconfig.cache
+D:\C#\lab1\353503_ABDULOV_LAB1\obj\Debug\net8.0\ref\353503_ABDULOV_LAB1.dll

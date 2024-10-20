@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\353503_ABDULOV_LAB5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F7DC46-E816-44A5-8C81-17C5BFEE9A0B}|..\\SerializerLib\\SerializerLib_LAB5.csproj|d:\\c#\\serializerlib\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF5FDAF-5334-4208-AD8A-ACF8204A859E}|353503_ABDULOV_LAB5.csproj|d:\\c#\\353503_abdulov_lab5\\buildingcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF5FDAF-5334-4208-AD8A-ACF8204A859E}|353503_ABDULOV_LAB5.csproj|solutionrelative:buildingcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF5FDAF-5334-4208-AD8A-ACF8204A859E}|353503_ABDULOV_LAB5.csproj|d:\\c#\\353503_abdulov_lab5\\files\\353503_abdulov_lab5_json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EF5FDAF-5334-4208-AD8A-ACF8204A859E}|353503_ABDULOV_LAB5.csproj|solutionrelative:files\\353503_abdulov_lab5_json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF5FDAF-5334-4208-AD8A-ACF8204A859E}|353503_ABDULOV_LAB5.csproj|d:\\c#\\353503_abdulov_lab5\\files\\353503_abdulov_lab5_linq.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1EF5FDAF-5334-4208-AD8A-ACF8204A859E}|353503_ABDULOV_LAB5.csproj|solutionrelative:files\\353503_abdulov_lab5_linq.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C19FBA-D12D-43B9-8E22-63EF87F2DF4E}|..\\353503_ABDULOV_LAB5.Domain\\353503_ABDULOV_LAB5.Domain.csproj|d:\\c#\\353503_abdulov_lab5.domain\\iserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C19FBA-D12D-43B9-8E22-63EF87F2DF4E}|..\\353503_ABDULOV_LAB5.Domain\\353503_ABDULOV_LAB5.Domain.csproj|d:\\c#\\353503_abdulov_lab5.domain\\heating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF5FDAF-5334-4208-AD8A-ACF8204A859E}|353503_ABDULOV_LAB5.csproj|d:\\c#\\353503_abdulov_lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF5FDAF-5334-4208-AD8A-ACF8204A859E}|353503_ABDULOV_LAB5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C19FBA-D12D-43B9-8E22-63EF87F2DF4E}|..\\353503_ABDULOV_LAB5.Domain\\353503_ABDULOV_LAB5.Domain.csproj|d:\\c#\\353503_abdulov_lab5.domain\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF5FDAF-5334-4208-AD8A-ACF8204A859E}|353503_ABDULOV_LAB5.csproj|d:\\c#\\353503_abdulov_lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EF5FDAF-5334-4208-AD8A-ACF8204A859E}|353503_ABDULOV_LAB5.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F7DC46-E816-44A5-8C81-17C5BFEE9A0B}|..\\SerializerLib\\SerializerLib_LAB5.csproj|d:\\c#\\serializerlib\\serializerlib_lab5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C19FBA-D12D-43B9-8E22-63EF87F2DF4E}|..\\353503_ABDULOV_LAB5.Domain\\353503_ABDULOV_LAB5.Domain.csproj|d:\\c#\\353503_abdulov_lab5.domain\\353503_abdulov_lab5.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuildingComparer.cs",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB5\\BuildingComparer.cs",
+              "RelativeDocumentMoniker": "BuildingComparer.cs",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB5\\BuildingComparer.cs",
+              "RelativeToolTip": "BuildingComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:13:55.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "353503_ABDULOV_LAB5_LINQ.xml",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB5\\Files\\353503_ABDULOV_LAB5_LINQ.xml",
+              "RelativeDocumentMoniker": "Files\\353503_ABDULOV_LAB5_LINQ.xml",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB5\\Files\\353503_ABDULOV_LAB5_LINQ.xml",
+              "RelativeToolTip": "Files\\353503_ABDULOV_LAB5_LINQ.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-15T22:45:39.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "353503_ABDULOV_LAB5_JSON.json",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB5\\Files\\353503_ABDULOV_LAB5_JSON.json",
+              "RelativeDocumentMoniker": "Files\\353503_ABDULOV_LAB5_JSON.json",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB5\\Files\\353503_ABDULOV_LAB5_JSON.json",
+              "RelativeToolTip": "Files\\353503_ABDULOV_LAB5_JSON.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T22:45:38.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISerializer.cs",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB5.Domain\\ISerializer.cs",
+              "RelativeDocumentMoniker": "..\\353503_ABDULOV_LAB5.Domain\\ISerializer.cs",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB5.Domain\\ISerializer.cs",
+              "RelativeToolTip": "..\\353503_ABDULOV_LAB5.Domain\\ISerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:29:42.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Heating.cs",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB5.Domain\\Heating.cs",
+              "RelativeDocumentMoniker": "..\\353503_ABDULOV_LAB5.Domain\\Heating.cs",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB5.Domain\\Heating.cs",
+              "RelativeToolTip": "..\\353503_ABDULOV_LAB5.Domain\\Heating.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:43:35.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB5\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB5\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T09:49:10.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SerializerLib_LAB5.csproj",
+              "DocumentMoniker": "D:\\C#\\SerializerLib\\SerializerLib_LAB5.csproj",
+              "RelativeDocumentMoniker": "..\\SerializerLib\\SerializerLib_LAB5.csproj",
+              "ToolTip": "D:\\C#\\SerializerLib\\SerializerLib_LAB5.csproj",
+              "RelativeToolTip": "..\\SerializerLib\\SerializerLib_LAB5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T08:41:16.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "D:\\C#\\SerializerLib\\Serializer.cs",
+              "RelativeDocumentMoniker": "..\\SerializerLib\\Serializer.cs",
+              "ToolTip": "D:\\C#\\SerializerLib\\Serializer.cs",
+              "RelativeToolTip": "..\\SerializerLib\\Serializer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:41:29.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "353503_ABDULOV_LAB5.Domain.csproj",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB5.Domain\\353503_ABDULOV_LAB5.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\353503_ABDULOV_LAB5.Domain\\353503_ABDULOV_LAB5.Domain.csproj",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB5.Domain\\353503_ABDULOV_LAB5.Domain.csproj",
+              "RelativeToolTip": "..\\353503_ABDULOV_LAB5.Domain\\353503_ABDULOV_LAB5.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T08:33:14.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Building.cs",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB5.Domain\\Building.cs",
+              "RelativeDocumentMoniker": "..\\353503_ABDULOV_LAB5.Domain\\Building.cs",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB5.Domain\\Building.cs",
+              "RelativeToolTip": "..\\353503_ABDULOV_LAB5.Domain\\Building.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:30:53.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\353503_ABDULOV_LAB5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\353503_ABDULOV_LAB5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:28:57.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
