@@ -28,8 +28,6 @@ main:
     mov dx, offset msg2
     mov ah, 09h                 
     int 21h
-    
-    
                       
     ;sort    
     
@@ -84,11 +82,10 @@ swap:
     cmp dh, ch  ;j<length
     jl for2
     
-    jmp for1     
+    jmp for1
+         
     ;sort
-     
-                     
-                     
+                      
 res:    
     lea di, buffer + 2    ; i = 0
     mov cl, [buffer + 1]  ; length 
@@ -102,9 +99,6 @@ print:
     
     cmp cl, 0                    
     jge print        
-
-   
-            
 
     mov ah, 4Ch           
     int 21h
