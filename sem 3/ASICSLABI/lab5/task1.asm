@@ -3,7 +3,8 @@
 .data 
     text db 30 dup(0)   
     err db "File path not founded$"
-    msg db "Count of strings:$" 
+    emp db "Cmd is empty", 0Ah, 0Dh, 24h 
+    msg db "Count of strings:$"
     res db 10 dup("$")          
     buffer db 1 dup(0)
     
@@ -24,7 +25,11 @@ main:
 Error:
     print err
     jmp ENDPROG
-
+Empty:    
+    print emp
+    print err
+    jmp ENDPROG
+    
 Start:
     call readCmd 
     
@@ -56,7 +61,7 @@ proc readCmd near
     mov di, offset text   
     
     cmp cx, 0
-    je Error    
+    je Empty    
     
     inc si
     dec cx

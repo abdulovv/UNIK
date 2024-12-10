@@ -141,8 +141,8 @@ atoi proc near
     xor dx, dx
     sign dw 0h
     tmpVal dw 0h 
-    mov sign, dx  ;to clear sign
-    mov tmpVal, dx  ;to clear sign 
+    mov sign, dx  ;to clear sign field
+    mov tmpVal, dx  ;to clear sign field 
     
 ;sign check
     mov dl, [di]
